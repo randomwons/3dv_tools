@@ -3,6 +3,7 @@
 #include <opencv2/aruco.hpp>
 #include <opencv2/opencv.hpp>
 
+
 int main() {
     cv::VideoCapture inputVideo;
     inputVideo.open(0);
